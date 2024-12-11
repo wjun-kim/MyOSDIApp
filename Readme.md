@@ -200,3 +200,5 @@ This project was built using:
 
 ---
 
+## **8. References**
+- ChatGPT
